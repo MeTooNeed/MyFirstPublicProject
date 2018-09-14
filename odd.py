@@ -1,7 +1,3 @@
-from datetime import datetime
-from os import getcwd
-import random
-from time import sleep
 
 # Инверсия массива
 # Циклический сдвиг влево и вправо
