@@ -13,3 +13,4 @@ B = 'shemaeshemaeshemaeshemae'
 f = ['a']
 for i in B:
     f.append(i) if i in A and i not in f else None
+# add new string
